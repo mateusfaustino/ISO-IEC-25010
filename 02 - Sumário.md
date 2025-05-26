@@ -1,3 +1,7 @@
+A ISO/IEC 25010 é parte da família de normas SQuaRE (Systems and software Quality Requirements and Evaluation) e estabelece um modelo de qualidade de produto de software e sistemas, definindo critérios claros para especificar, avaliar e melhorar a qualidade de qualquer solução de software.
+
+0. **Introdução** ([Artigo](https://github.com/mateusfaustino/ISO-IEC-25010/blob/master/01%20-%20Introdu%C3%A7%C3%A3o.md))
+
 1. **Adequação Funcional**  ([Artigo](https://github.com/mateusfaustino/ISO-IEC-25010/blob/master/02%20-%20Caracter%C3%ADsticas/01%20-%20Adequa%C3%A7%C3%A3o%20funcional/00%20-%20Adequa%C3%A7%C3%A3o%20funcional.md))
    
     1.1 – Completude Funcional (Functional Completeness) ([Artigo](https://github.com/mateusfaustino/ISO-IEC-25010/blob/master/02%20-%20Caracter%C3%ADsticas/01%20-%20Adequa%C3%A7%C3%A3o%20funcional/1.1%20%E2%80%93%20Completude%20Funcional%20(Functional%20Completeness).md))  
