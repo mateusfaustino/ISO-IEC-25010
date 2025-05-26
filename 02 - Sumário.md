@@ -2,12 +2,16 @@
 
     1.1 – Completude Funcional (Functional Completeness) ([Artigo]())
     
-    1.2 – Correção Funcional (Functional Correctness) ([Artigo]()) 
+    1.2 – Correção Funcional (Functional Correctness) ([Artigo]())
+    
     1.3 – Adequação Funcional (Functional Appropriateness) ([Artigo]())
+    
     
 3. **Eficiência de Desempenho**  ([Artigo]())
     2.1 – Comportamento Temporal (Time Behavior) ([Artigo]()) 
+    
     2.2 – Utilização de Recursos (Resource Utilization) ([Artigo]()) 
+    
     2.3 – Capacidade (Capacity) ([Artigo]())
     
 4. **Compatibilidade**  ([Artigo]())
