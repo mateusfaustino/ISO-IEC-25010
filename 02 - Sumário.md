@@ -1,6 +1,7 @@
 1. **Adequação Funcional**  ([Artigo](https://github.com/mateusfaustino/ISO-IEC-25010/blob/master/02%20-%20Caracter%C3%ADsticas/01%20-%20Adequa%C3%A7%C3%A3o%20funcional/00%20-%20Adequa%C3%A7%C3%A3o%20funcional.md))
 
     1.1 – Completude Funcional (Functional Completeness) ([Artigo]())
+    
     1.2 – Correção Funcional (Functional Correctness) ([Artigo]()) 
     1.3 – Adequação Funcional (Functional Appropriateness) ([Artigo]())
     
