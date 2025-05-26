@@ -1,4 +1,5 @@
-1. **Adequação Funcional**  ([Artigo](02 - Características/01 - Adequação funcional/00 - Adequação funcional.md"))
+1. **Adequação Funcional**  ([Wikipédia](https://github.com/mateusfaustino/ISO-IEC-25010/blob/master/02%20-%20Caracter%C3%ADsticas/01%20-%20Adequa%C3%A7%C3%A3o%20funcional/00%20-%20Adequa%C3%A7%C3%A3o%20funcional.md))
+
 
     1.1 – Completude Funcional (Functional Completeness) ([Wikipédia](https://pt.wikipedia.org/wiki/ISO/IEC_25000?utm_source=chatgpt.com "ISO/IEC 25000"))  
     1.2 – Correção Funcional (Functional Correctness) ([Wikipédia](https://pt.wikipedia.org/wiki/ISO/IEC_25000?utm_source=chatgpt.com "ISO/IEC 25000"))  
